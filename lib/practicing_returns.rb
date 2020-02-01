@@ -1,4 +1,5 @@
 required 'pry'
+
 def hello(array)
   i = 0 
   while i < array.length do 
@@ -6,3 +7,5 @@ def hello(array)
     i += 1 
   end
 end
+
+
